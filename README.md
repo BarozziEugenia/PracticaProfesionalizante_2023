@@ -9,9 +9,8 @@ Integrantes
 - [Riquelme Belen Marite](https://github.com/bely092)
 - [Ledezma Ricardo Mariano](https://github.com/mledezma2022)
 - [Lobo Gabriel Nahuel](https://github.com/Nahulobo10)
-
-#h
-###hh
+##c
+####gg
 
 ## Consideraciones iniciales:
 #### Objetivo del Proyecto 
